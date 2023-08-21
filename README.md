@@ -10,6 +10,9 @@ Os presentes frameworks possuem scripts para elaboração do conjunto de de dado
 
 Arquivos:
 
-Criação_dos_Dataframes.ipynb - Código utilizado para a criação do dataframes
+Criação_dos_Dataframes.ipynb - Código utilizado para a criação do dataframes utilizados para a separação dos conjunto de dados.
+Artigo_IEEE_Treinamento_CNN_SIMPLES.ipynb - Código de replicação do estudo elaborado por (SAITO; ZHAO; ZHONG, 2019).
+Treinamento_Validação_CNN_SIMPLES.ipynb - Treinamento do modelo simples utilizado.
+Treinamento_Validação_CNN_RESNET_SIMPLES_2.ipynb - Treinamento do modelo ResNet simples utilizado.
 
 
