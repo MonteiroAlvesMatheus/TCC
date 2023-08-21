@@ -1,23 +1,15 @@
 # Redes Neurais Aplicadas A Diagnóstico de Doenças Cardiovasculares
 
-Estudos realizados pela Organização Mundial de Saúde (OMS) mostram que
-as doenças cardiovasculares (DCVs) são a principal causa de morte no mundo e que
-mais de três quartos das mortes causadas por elas ocorrem em países de baixa e
-média renda (OMS, 2020). A fim de reduzir os riscos de mortalidade, a OMS destaca a
-importância da obtenção de diagnósticos precoces para que o início dos tratamentos
-seja realizado o mais breve possível (OMS, 2020). Atualmente, existem diversas tecno-
-logias voltadas para o diagnóstico das DCVs. Em virtude da sua larga abrangência de
-aplicação, empregada para o diagnóstico de diferentes DCVs (que podem variar de
-arritmias a tumores), a ressonância magnética cardíaca (RMC) é considerada um dos
-exames de imagem mais modernos e mais completos para a avaliação cardiológica.
+Os documentos contidos neste repositório correspondem às codificações elaboradas e empregadas durante o progresso da pesquisa de graduação. É importante destacar que o propósito deste repositório é estimular a investigação da Inteligência Artificial, particularmente no âmbito da Engenharia Elétrica no IFSC Câmpus Itajaí.
 
-Nesse contexto, visando fomentar
-a pesquisa no campo da medicina cardiovascular a sociedade de Computação de
-Imagens Médicas e Intervenção Assistida por Computador (Medical Image Computing
-and Computer Assisted Intervention - MICCAI Society), por meio do projeto Atlas
-Cardíaco, tem disponibilizado livremente diversos exames de imagens cardíacas e
-suas correspondentes informações clínicas.
+O conjunto de dados empregado foi proveniente do projeto Atlas Cardíaco, estando acessível ao público em geral.
 
-Link Conjunto de dados: https://www.cardiacatlas.org/sunnybrook-cardiac-data/
+link: https://www.cardiacatlas.org/sunnybrook-cardiac-data/
+
+Os presentes frameworks possuem scripts para elaboração do conjunto de de dados elaborados a partir do orginial e também os modelos aplicados, de tal forma que o projeto possa ser replicado.
+
+Arquivos:
+
+Criação_dos_Dataframes.ipynb - Código utilizado para a criação do dataframes
 
 
